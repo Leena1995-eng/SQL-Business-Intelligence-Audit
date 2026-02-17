@@ -19,6 +19,7 @@ This project demonstrates the use of **SQL (SQLite)** to query a relational data
 
 ## 📈 Key Query Example
 One of the core challenges was identifying "Ghost Customers" (users with zero purchases) to aid marketing re-engagement efforts using a **LEFT JOIN** strategy. See the image
+
 <img width="494" height="134" alt="image" src="https://github.com/user-attachments/assets/1527ea26-fb46-447e-9a01-db7abc496e30" />
 
 
