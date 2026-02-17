@@ -7,15 +7,15 @@ Relational database analysis using SQL to audit retail operations, join customer
 This project demonstrates the use of **SQL (SQLite)** to query a relational database for business insights. I simulated a retail environment with multiple tables to solve complex operational questions regarding revenue, customer behavior, and logistics priority.
 
 ## 🔍 SQL Techniques Applied
-* **Multi-Table Joins:** Connected `Sales` and `Customers` tables to map revenue to specific geographic regions.
-* **Conditional Logic:** Implemented `CASE` statements to automate shipping priority flagging based on order value.
-* **Data Cleaning:** Used SQL functions (`UPPER`, `ROUND`) to standardize product names and financial reporting.
-* **Aggregations:** Utilized `GROUP BY` and `HAVING` clauses to identify high-performing product categories.
+**Multi-Table Joins:** Connected `Sales` and `Customers` tables to map revenue to specific geographic regions.
+**Conditional Logic:** Implemented `CASE` statements to automate shipping priority flagging based on order value.
+**Data Cleaning:** Used SQL functions (`UPPER`, `ROUND`) to standardize product names and financial reporting.
+**Aggregations:** Utilized `GROUP BY` and `HAVING` clauses to identify high-performing product categories.
 
 ## 🛠️ Tech Stack
-* **Database Engine:** SQLite
-* **Environment:** Python (used as a bridge for SQL execution)
-* **Libraries:** Pandas (for result formatting)
+**Database Engine:** SQLite
+**Environment:** Python (used as a bridge for SQL execution)
+**Libraries:** Pandas (for result formatting)
 
 ## 📈 Key Query Example
 One of the core challenges was identifying "Ghost Customers" (users with zero purchases) to aid marketing re-engagement efforts using a **LEFT JOIN** strategy. See the image
