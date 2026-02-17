@@ -18,6 +18,8 @@ This project demonstrates the use of **SQL (SQLite)** to query a relational data
 * **Libraries:** Pandas (for result formatting)
 
 ## 📈 Key Query Example
-One of the core challenges was identifying "Ghost Customers" (users with zero purchases) to aid marketing re-engagement efforts using a **LEFT JOIN** strategy.
+One of the core challenges was identifying "Ghost Customers" (users with zero purchases) to aid marketing re-engagement efforts using a **LEFT JOIN** strategy. See the image
+<img width="494" height="134" alt="image" src="https://github.com/user-attachments/assets/1527ea26-fb46-447e-9a01-db7abc496e30" />
+
 
 <img width="1357" height="225" alt="image" src="https://github.com/user-attachments/assets/03870357-7b16-4c13-a3c6-0a8226f38d31" />
