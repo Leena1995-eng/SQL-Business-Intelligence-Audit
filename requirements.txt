@@ -1,0 +1,1 @@
+Content: pandas, sqlite3 (Note: sqlite3 is built into Python, but listing it shows you're thinking about dependencies).
